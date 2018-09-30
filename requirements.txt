@@ -1,0 +1,6 @@
+click
+sklearn
+selenium
+pandas
+sqlalchemy
+scipy
